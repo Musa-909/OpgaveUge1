@@ -1,11 +1,11 @@
-// Declared and intialized
-String adress = "Adressen er CPH-Business";
+// Declared 
+String adress;
 
-// Declared and intialized
-int sum = 35 + 24;
+// Declared 
+int sumOfNum;
 
-//Declared and intialized
-int div = 10/2;
+//Declared
+int divOfNum;
 
-//Declared and intialized
-String messageToUser = "Det er fredag i dag ";
+//Declared
+String messageToUser;
